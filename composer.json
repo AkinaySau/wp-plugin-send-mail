@@ -1,8 +1,8 @@
 {
-	"name": "sau/wp-send-mail",
+	"name": "sau/wp-plugin-send-mail",
 	"description": "Plugin for send mail",
 	"minimum-stability": "stable",
-	"license": "BSD-3",
+	"license": "BSD-3-Clause",
 	"version": "1.0.0",
 	"authors": [
 		{
