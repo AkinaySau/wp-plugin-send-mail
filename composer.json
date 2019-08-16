@@ -1,9 +1,10 @@
 {
 	"name": "sau/wp-plugin-send-mail",
-	"description": "Plugin for send mail",
+	"description": "Plugin to collect requests and send them to the administrator (or manager), uses SMTP",
 	"minimum-stability": "stable",
 	"license": "BSD-3-Clause",
 	"version": "1.0.0",
+	"type": "project",
 	"authors": [
 		{
 			"name": "Akinay Sau (Vladimir M)",
