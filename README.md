@@ -7,7 +7,8 @@ Go in wp plugin dir
 $ cd </path_to_project>/wp-content/plugins
 $ git clone https://github.com/AkinaySau/wp-plugin-send-mail.git send-mail
 
-$ cd send-mail composer install
+$ cd send-mail
+$ composer install
 ```
 or
 ```bash
