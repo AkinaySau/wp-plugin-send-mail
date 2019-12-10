@@ -19,6 +19,7 @@
 		}
 	},
 	"require": {
+		"php":">=7.0",
 		"swiftmailer/swiftmailer": "^6.2",
 		"sau/wp-settings-api": "^1.0"
 	}
